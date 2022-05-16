@@ -1,4 +1,9 @@
 /target
+/Cargo.lock
+/public
+
+#NODE MODULES
+node_modules
 
 #IDE
 .idea
